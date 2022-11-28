@@ -1,0 +1,14 @@
+{
+  "name": "brigadier-commands",
+  "version": "1.0.0",
+  "description": "A port of the java brigadier library to node.js",
+  "main": "lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
