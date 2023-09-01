@@ -1,4 +1,4 @@
-# node-brigadier
+# node-brigadier-commands
 
 A port of the [Brigadier](https://github.com/Mojang/brigadier) library to Node. It was hand-translated from the original Java source code, and as such its codebase and API is very similar to that of the original library.
 
